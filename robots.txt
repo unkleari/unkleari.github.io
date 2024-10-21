@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://unkleari.github.io/unkleari.txt.gz
+Sitemap: https://unkleari.github.io/app/unkleari.txt.gz
+Sitemap: https://unkleari.github.io/assets/unkleari.txt.gz
+Sitemap: https://unkleari.github.io/css/unkleari.txt.gz
+Sitemap: https://unkleari.github.io/includes/unkleari.txt.gz
+Sitemap: https://unkleari.github.io/item/unkleari.txt.gz
+Sitemap: https://unkleari.github.io/src/unkleari.txt.gz
